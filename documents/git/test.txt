@@ -1,0 +1,13 @@
+PHPStorm 10
+For activation set license server to: 
+ > http://idea.lanyus.com (May be locked, read below)
+and press Ok. No key. Worked.
+
+UPD:
+Site may be locked in some regions. We can bypassing it using next link as license server:
+> http://nfsgkyi.nrqw46lvomxgg33n.dresk.ru (May be slow, opens about 10-20 seconds; sometimes open on the 2nd try)
+
+It is real url of idea.lanyus.com, but proxified from anonimize service "daidostup.ru" (you can check it yourself in your browser).
+On 7 Dec 2015 worked for me.
+
+Last tested version: 10.0.3
